@@ -1,4 +1,4 @@
-# su_chat_hakan
+# su_chat_app
 
 A new Flutter project.
 
