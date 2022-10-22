@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794512977875",
+    "project_id": "hakanchat-88dda",
+    "storage_bucket": "hakanchat-88dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794512977875:android:3a409b482d41f7cc564926",
+        "android_client_info": {
+          "package_name": "com.example.su_chat_hakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794512977875-cdubkbcmm7ckp02kkgf2igucgi17nmua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.su_chat_hakan",
+            "certificate_hash": "346551311b2483824d290b54c7ed1940dc6b6a7a"
+          }
+        },
+        {
+          "client_id": "794512977875-btfejrf8o0tp9tifq4mfdr0nbt90t7uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-_Qg8S1ALhOr518wXmtliIhV-qdEJKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794512977875-btfejrf8o0tp9tifq4mfdr0nbt90t7uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
