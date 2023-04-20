@@ -1,16 +1,6 @@
-# su_chat_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1681946866](https://user-images.githubusercontent.com/65358560/233390903-c5b642f0-a05a-4b7a-bc3d-e51e3ab8ce06.png)
+![Screenshot_1681946875](https://user-images.githubusercontent.com/65358560/233390908-95dd0d1d-7dc0-4342-93dc-a6859d211456.png)
+![Screenshot_1681946937](https://user-images.githubusercontent.com/65358560/233390910-4b99e77b-c684-421f-bbdf-22344169fb7f.png)
+![Screenshot_1681946953](https://user-images.githubusercontent.com/65358560/233390914-27946437-f4b1-4786-b9b4-7e89f3ec22a9.png)
+![Screenshot_1681946979](https://user-images.githubusercontent.com/65358560/233390931-e3f983fb-2400-4d5b-adfb-aa0ddd0f940c.png)
+![Screenshot_1681947016](https://user-images.githubusercontent.com/65358560/233390935-70a3b24b-f204-4fbf-a30a-57181977a7e5.png)
